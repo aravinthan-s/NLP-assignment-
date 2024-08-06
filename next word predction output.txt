@@ -1,0 +1,6 @@
+output
+Next word prediction for 'the':
+cat
+
+Next word prediction for 'cat':
+sat
