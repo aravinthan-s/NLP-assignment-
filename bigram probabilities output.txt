@@ -1,0 +1,3 @@
+#output
+Bigram Probabilities:
+{('the', 'cat'): 0.5, ('cat', 'sat'): 0.5, ('sat', 'on'): 1.0, ('on', 'the'): 1.0, ('the', 'mat'): 0.5, ('mat', 'the'): 1.0, ('the', 'cat'): 0.5, ('cat', 'is'): 0.5, ('is', 'happy'): 1.0}
