@@ -1,0 +1,3 @@
+#output
+Trigrams:
+Counter({('the', 'cat', 'sat'): 1, ('cat', 'sat', 'on'): 1, ('sat', 'on', 'the'): 1, ('on', 'the', 'mat'): 1, ('the', 'mat', 'the'): 1, ('mat', 'the', 'cat'): 1, ('the', 'cat', 'is'): 1, ('cat', 'is', 'happy'): 1})
