@@ -1,0 +1,3 @@
+#output
+Bigrams:
+Counter({('the', 'cat'): 2, ('cat', 'sat'): 1, ('sat', 'on'): 1, ('on', 'the'): 1, ('the', 'mat'): 1, ('mat', 'the'): 1, ('the', 'cat'): 1, ('cat', 'is'): 1, ('is', 'happy'): 1})
